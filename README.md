@@ -39,17 +39,22 @@ Step-5: Add android:noHistory="true" in activity in manifest file as shown in co
 Repeat Above steps whenever you are adding activity in android application or creating new project for new practical.
 
 
-
-![Screenshot_20220916_123848](https://user-images.githubusercontent.com/110646988/190578784-4be96f03-21a7-4efb-a305-6cd38c8ecaaa.png)
-
-![Screenshot_20220916_123856](https://user-images.githubusercontent.com/110646988/190578802-bcbdcfc0-2d2f-4e9e-8e64-6b03eac76ff3.png)
-
-![Screenshot_20220916_123902](https://user-images.githubusercontent.com/110646988/190578820-8e0eac63-1127-4c82-93f6-2a617d2de128.png)
+![Screenshot_20220916_123848](https://user-images.githubusercontent.com/110646988/190579959-4368261b-4719-4b7b-97d7-bfbdcaf01b88.png)
 
 
+![Screenshot_20220916_123856](https://user-images.githubusercontent.com/110646988/190579969-a65c0f58-5468-4222-a1a7-e1fd5fad54f1.png)
 
-![Screenshot_20220916_123659](https://user-images.githubusercontent.com/110646988/190578846-9419d50b-18b2-4d94-bd4f-d686afb4eb7b.png)
 
-![Screenshot_20220916_123803](https://user-images.githubusercontent.com/110646988/190578866-391406bb-3bc8-48bc-9492-3f8f9d48b159.png)
+![Screenshot_20220916_123902](https://user-images.githubusercontent.com/110646988/190579987-2b73864e-0b7e-495d-9959-2b1da23451b0.png)
 
-![Screenshot_20220916_123814](https://user-images.githubusercontent.com/110646988/190578897-801c29e1-a92b-4f74-b05b-364d6c9e9e08.png)
+
+
+
+
+![Screenshot_20220916_123659](https://user-images.githubusercontent.com/110646988/190580028-22999a78-5289-45c4-bd8a-868829a8cb04.png)
+
+
+![Screenshot_20220916_123803](https://user-images.githubusercontent.com/110646988/190580037-e39f921b-12d1-4830-b260-7d8c24253ad9.png)
+
+
+![Screenshot_20220916_123814](https://user-images.githubusercontent.com/110646988/190580044-fc2d50d2-55f4-490f-ad36-c6cd679465c0.png)
